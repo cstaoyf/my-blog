@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+title: My Research Blog
 ---
 
-This is just a test
+
